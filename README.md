@@ -1,7 +1,2 @@
 # school-stuff
-Stuff i coded for school :)
-
-I take a Data Science class at the Bush School.
-These are some of the projects I completed in the 2019-2020 school year, and some other projects I made along the way.
-Hope you enjoy!
-
+These are some of the projects I completed in my 2019-2020 Data Science class
